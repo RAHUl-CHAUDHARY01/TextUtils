@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[9573],{9573:(n,e,a)=>{async function t(n){let e=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await n.addInteractor("externalBounce",(async n=>{const{Bouncer:e}=await a.e(228).then(a.bind(a,228));return new e(n)}),e)}a.d(e,{loadExternalBounceInteraction:()=>t})}}]);
+//# sourceMappingURL=9573.8309e22d.chunk.js.map

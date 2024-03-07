@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[8975],{8975:(t,a,e)=>{async function n(t){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await t.addParticleUpdater("tilt",(async t=>{const{TiltUpdater:a}=await e.e(1683).then(e.bind(e,1683));return new a(t)}),a)}e.d(a,{loadTiltUpdater:()=>n})}}]);
+//# sourceMappingURL=8975.7ef165fd.chunk.js.map

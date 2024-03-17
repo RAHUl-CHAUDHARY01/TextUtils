@@ -22,7 +22,7 @@ function App() {
    const toggleMode= ()=>{
     if(mode === 'light'){
       setMode('dark');
-      document.body.style.backgroundColor = '#494b4c';
+      document.body.style.backgroundColor = '#1A1A1D';
       showAlert("dark enabled","danger");
     
     }
